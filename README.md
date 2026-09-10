@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cesar Adrian Luy, 21 years old, 4th - BSCpE student.
+- 👋 Hi, I’m Cesar Adrian Luy, 23 years old, Technical Engineer.
 - 👀 I’m interested in learning the different types of language that can be used in programming.
 - 🌱 I’m currently learning the basics and is eager to learn more.
 - 💞️ I’m looking to collaborate with some fellow programmers in the near future.
