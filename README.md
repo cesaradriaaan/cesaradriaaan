@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cesar Adrian Luy, 23 years old, Technical Engineer.
-- 👀 I’m interested in learning the different types of language that can be used in programming.
-- 🌱 I’m currently learning the basics and is eager to learn more.
+- 👀 I’m interested in learning programming while utilizing AI to create aesthetic and functional websites.
+- 🌱 I’m currently learning but I am eager to learn more.
 - 💞️ I’m looking to collaborate with some fellow programmers in the near future.
 - 📫 How to reach me: FB: Cesar Adrian Luy/Gmail: cesaradriaaan@gmail.com
 
